@@ -2,7 +2,7 @@
 const DB_SERVER = "LOCALHOST";
 const DB_USERNAME = "db_user";
 const DB_PASSWORD = "Password123";
-const DB_NAME = "logindemo";
+const DB_NAME = "finalProject";
 
 function getDB(){
     try{
